@@ -1,0 +1,27 @@
+{
+  "name": "pufferfish",
+  "version": "1.0.0",
+  "description": "The home on the interwebs for pufferfish.cc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psnosignuk/home.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "javascript"
+  ],
+  "author": "Paul Stevens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psnosignuk/home/issues"
+  },
+  "homepage": "https://github.com/psnosignuk/home#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
